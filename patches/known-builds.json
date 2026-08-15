@@ -1,0 +1,15 @@
+{
+  "patch_version": "1.0.1",
+  "operation_neptune": {
+    "filename": "ONWIN32.EXE",
+    "original_sha256": "51a4e08aec454d46a4b9cc2bd3e14703cc9592d3ba82cad71c16f308af7ad0cc",
+    "patched_sha256": "d2bd4e0101b09c88a6c93fa9edc4899d9b1a9a7103db10277db27eb2282f81ea"
+  },
+  "wing32": {
+    "filename": "WING32.DLL",
+    "original_sha256": "bb1f552e2525e784b61d2fe0ca23f3402adec05aa5f92f4c1dfbea3966a84cbb",
+    "patched_sha256": "6577fe14fea4f5626c70223b8c6ea3ce529a1b37586c9e1ec2e67f5f6cb7f6c5",
+    "compressed_filename": "WING32.DL_",
+    "compressed_sha256": "229ca9629268b9b531efff4fa48961638fc2b104287aad13b4294391e517da80"
+  }
+}
